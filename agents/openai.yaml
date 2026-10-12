@@ -1,0 +1,5 @@
+# UI metadata for OpenAI Codex / agentskills-compatible platforms.
+# This file is read by the host UI, not by the agent itself.
+display_name: "GitHub First Upload"
+short_description: "Guide a first-time project upload to GitHub safely"
+default_prompt: "帮我把这个项目第一次上传到 GitHub"
